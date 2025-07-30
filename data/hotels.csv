@@ -1,0 +1,101 @@
+﻿Name,Destination,Price_per_night,Rating,Type,Suitable_for,Activity_type
+Green Hill Stay,Ooty,1500,4.2,Budget,Family,Hill station
+Temple View Inn,Madurai,1200,4,Budget,Family,Temples
+Lake View Resort,Kodaikanal,3000,4.5,Mid-range,Couple,Hill station
+Budget Lodge,Madurai,1000,3.8,Budget,Solo,Temples
+Pine Retreat,Ooty,2500,4.3,Mid-range,Family,Hill station
+Sunrise Inn,Kanyakumari,1800,4.1,Budget,Family,Beaches
+Heritage Stay,Thanjavur,3500,4.6,Mid-range,Family,Temples
+Coastal Breeze,Chennai,4000,4.4,Mid-range,Couple,Beaches
+Misty Heights,Yercaud,2200,4,Budget,Family,Hill station
+Rama Guest House,Rameswaram,1300,3.9,Budget,Solo,Temples
+Hilltop Lodge,Ooty,1700,4.1,Budget,Family,Hill station
+Temple Rest,Madurai,1400,4,Budget,All,Temples
+Valley View,Kodaikanal,3200,4.4,Mid-range,Couple,Hill station
+Beach Inn,Kanyakumari,2000,4.2,Budget,Family,Beaches
+Royal Stay,Thanjavur,3800,4.5,Mid-range,Family,Temples
+Marina View,Chennai,4500,4.3,Mid-range,Couple,Beaches
+Serene Stay,Yercaud,2400,4.1,Budget,Family,Hill station
+Pilgrim Rest,Rameswaram,1500,3.8,Budget,Solo,Temples
+Eco Retreat,Ooty,2600,4.2,Mid-range,Family,Hill station
+Sacred Stay,Madurai,1100,3.9,Budget,Family,Temples
+Pine Haven,Kodaikanal,3400,4.6,Mid-range,Couple,Hill station
+Sunset Lodge,Kanyakumari,1900,4,Budget,Family,Beaches
+Palace Inn,Thanjavur,3600,4.4,Mid-range,Family,Temples
+Ocean Breeze,Chennai,4200,4.3,Mid-range,Couple,Beaches
+Hill Escape,Yercaud,2300,4,Budget,Family,Hill station
+Trichy Comfort,Trichy,1400,4,Budget,Family,Temples
+Coimbatore Stay,Coimbatore,2800,4.3,Mid-range,Family,City
+Dhanushkodi Rest,Dhanushkodi,1600,3.9,Budget,Solo,Beaches
+Waterfall Inn,Courtallam,2000,4.1,Budget,Family,Waterfalls
+Hill Nest,Ooty,1800,4.2,Budget,Family,Hill station
+Temple Haven,Madurai,1300,4,Budget,All,Temples
+Mountain Retreat,Kodaikanal,3100,4.4,Mid-range,Couple,Hill station
+Sea View Stay,Kanyakumari,2100,4.2,Budget,Family,Beaches
+Royal Heritage,Thanjavur,3700,4.5,Mid-range,Family,Temples
+City Comfort,Chennai,4300,4.3,Mid-range,Couple,Beaches
+Green Escape,Yercaud,2500,4.1,Budget,Family,Hill station
+Pilgrim Haven,Rameswaram,1400,3.8,Budget,Solo,Temples
+Eco Lodge,Ooty,2700,4.2,Mid-range,Family,Hill station
+Sacred Rest,Madurai,1200,3.9,Budget,Family,Temples
+Pine Escape,Kodaikanal,3500,4.6,Mid-range,Couple,Hill station
+Sunset Inn,Kanyakumari,2000,4,Budget,Family,Beaches
+Palace Rest,Thanjavur,3400,4.4,Mid-range,Family,Temples
+Ocean View,Chennai,4100,4.3,Mid-range,Couple,Beaches
+Hill Haven,Yercaud,2400,4,Budget,Family,Hill station
+Sri Stay,Trichy,1500,4.1,Budget,Family,Temples
+Urban Retreat,Coimbatore,3000,4.4,Mid-range,Family,City
+Desert Camp,Dhanushkodi,1700,3.8,Budget,Solo,Beaches
+Falls View,Courtallam,2200,4.2,Budget,Family,Waterfalls
+Hill Breeze,Ooty,1900,4.1,Budget,Family,Hill station
+Temple Nest,Madurai,1100,3.9,Budget,All,Temples
+Valley Retreat,Kodaikanal,3300,4.5,Mid-range,Couple,Hill station
+Beach Rest,Kanyakumari,2300,4.2,Budget,Family,Beaches
+Heritage Inn,Thanjavur,3900,4.6,Mid-range,Family,Temples
+Marina Stay,Chennai,4600,4.4,Mid-range,Couple,Beaches
+Serene Escape,Yercaud,2600,4.1,Budget,Family,Hill station
+Rama Rest,Rameswaram,1600,3.9,Budget,Solo,Temples
+Hilltop Stay,Ooty,2000,4.2,Budget,Family,Hill station
+Sacred Inn,Madurai,1000,3.8,Budget,Family,Temples
+Lake Haven,Kodaikanal,3600,4.6,Mid-range,Couple,Hill station
+Sunrise Rest,Kanyakumari,2200,4.1,Budget,Family,Beaches
+Royal Inn,Thanjavur,4000,4.5,Mid-range,Family,Temples
+Coastal Stay,Chennai,4800,4.4,Mid-range,Couple,Beaches
+Misty Escape,Yercaud,2700,4.2,Budget,Family,Hill station
+Pilgrim Inn,Rameswaram,1700,4,Budget,Solo,Temples
+Trichy Rest,Trichy,1600,4.1,Budget,Family,Temples
+City Haven,Coimbatore,3200,4.5,Mid-range,Family,City
+Beach Camp,Dhanushkodi,1800,3.9,Budget,Solo,Beaches
+Falls Retreat,Courtallam,2400,4.3,Budget,Family,Waterfalls
+Hill Stay 2,Ooty,2100,4.2,Budget,Family,Hill station
+Temple Stay 2,Madurai,1300,4,Budget,All,Temples
+Mountain Haven,Kodaikanal,3400,4.5,Mid-range,Couple,Hill station
+Sea Breeze Inn,Kanyakumari,2400,4.2,Budget,Family,Beaches
+Heritage Rest,Thanjavur,4100,4.6,Mid-range,Family,Temples
+Urban Stay,Chennai,5000,4.5,Luxury,Couple,Beaches
+Green Haven,Yercaud,2800,4.3,Budget,Family,Hill station
+Rama Haven,Rameswaram,1800,4,Budget,Solo,Temples
+Eco Stay,Ooty,2900,4.4,Mid-range,Family,Hill station
+Sacred Haven,Madurai,1400,4.1,Budget,Family,Temples
+Pine Haven 2,Kodaikanal,3700,4.6,Mid-range,Couple,Hill station
+Sunset Rest,Kanyakumari,2500,4.3,Budget,Family,Beaches
+Palace Stay,Thanjavur,4200,4.5,Mid-range,Family,Temples
+Ocean Rest,Chennai,5200,4.6,Luxury,Couple,Beaches
+Hill Retreat,Yercaud,2900,4.4,Budget,Family,Hill station
+Sri Rest,Trichy,1700,4.2,Budget,Family,Temples
+City Retreat,Coimbatore,3400,4.5,Mid-range,Family,City
+Desert Rest,Dhanushkodi,1900,4,Budget,Solo,Beaches
+Falls Haven,Courtallam,2600,4.4,Budget,Family,Waterfalls
+Hill Stay 3,Ooty,2200,4.3,Budget,Family,Hill station
+Temple Stay 3,Madurai,1500,4.1,Budget,All,Temples
+Valley Haven,Kodaikanal,3800,4.7,Mid-range,Couple,Hill station
+Beach Haven,Kanyakumari,2600,4.4,Budget,Family,Beaches
+Royal Rest,Thanjavur,4300,4.6,Mid-range,Family,Temples
+Marina Rest,Chennai,5400,4.7,Luxury,Couple,Beaches
+Serene Haven,Yercaud,3000,4.5,Budget,Family,Hill station
+Pilgrim Stay,Rameswaram,1900,4.1,Budget,Solo,Temples
+Hilltop Rest,Ooty,2300,4.4,Budget,Family,Hill station
+Sacred Rest 2,Madurai,1600,4.2,Budget,Family,Temples
+Lake Retreat,Kodaikanal,3900,4.8,Mid-range,Couple,Hill station
+Sunrise Haven,Kanyakumari,2700,4.5,Budget,Family,Beaches
+Palace Haven,Thanjavur,4400,4.7,Mid-range,Family,Temples

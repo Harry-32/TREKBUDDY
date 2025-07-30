@@ -1,0 +1,6 @@
+id,city_id,name,description,image_url,category,best_time_to_visit,entry_fee,rating
+1,1,Marina Beach,The second longest urban beach in the world,https://images.unsplash.com/photo-1582510003544-4d00b7f74220,Beach,October to March,0,4.5
+2,1,Kapaleeshwarar Temple,Ancient Shiva temple with stunning Dravidian architecture,https://images.unsplash.com/photo-1582510003544-4d00b7f74220,Temple,All year round,0,4.7
+3,2,Meenakshi Temple,Ancient temple dedicated to Goddess Meenakshi,https://images.unsplash.com/photo-1604693331980-43bf9df2c64d,Temple,All year round,50,4.8
+4,2,Thirumalai Nayakkar Palace,Indo-Saracenic palace with stunning architecture,https://images.unsplash.com/photo-1604693331980-43bf9df2c64d,Palace,October to March,100,4.5
+5,3,Ooty Lake,Scenic lake with boating facilities,https://images.unsplash.com/photo-1599689444589-133726281155,Lake,All year round,30,4.6 
